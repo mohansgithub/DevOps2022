@@ -1,3 +1,5 @@
 apple
 orange
 mango
+mysore
+bangalore
