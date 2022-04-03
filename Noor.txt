@@ -1,2 +1,3 @@
 Merger Test 1
 another branch
+now main  got new updates
