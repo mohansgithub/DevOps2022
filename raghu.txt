@@ -1,9 +1,12 @@
-apple
-orange
-mango
-merge2
-merge
-second change
-rajini
-kamal
-dasdsa
+# Start a new feature
+git checkout -b rebase-feature main
+# Edit some files
+git add <file>
+git commit -m "Start a feature"
+# Edit some files
+git add <file>
+git commit -m "Finish a feature"
+# Merge in the rebase-feature branch
+git checkout main
+git rebase rebase-feature
+git branch -d new-featurefff
