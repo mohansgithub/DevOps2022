@@ -2,3 +2,4 @@ apple
 orange
 mango
 merge2
+merge
