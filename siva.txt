@@ -1,3 +1,6 @@
 apple
 orange
 mango
+bangalore
+hosur
+chittor
